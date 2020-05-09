@@ -1,3 +1,3 @@
 # Test-a-Perceptual-Phenomenon
-Background Information
+# Background Information
 In a Stroop task, participant are presented with a list of words, with each word displayed in a color of ink. The participant's task is to say out loud the color of the ink in which the word is printed.The task has two conditions: a congruent word condition, and an incongruent word condition. In the congruent word condition, the words being displayed are color words whose names match the colors in which they are printed: for example RED, BLUE. In the incongruent words condition, the words displayed are color words whose names do not match the color in which they are printed: for example PURPLE, ORANGE. In each case, we measure the time it takes to name the ink colors in equally-sized list. Each participant will go through and record a time from each condition.
